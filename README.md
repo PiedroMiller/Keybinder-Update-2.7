@@ -2,7 +2,7 @@
   <img src="http://cp.rpg-city.de/images/userUpload/fraktion/18.png?d=08102016" alt="Wheelman Logo"/>
 </p>
 
-# Wheelman Keybinder: Update 2.7
+# Wheelman Keybinder: Update 2.7-9
 
 Die Wheelman Keybinder Version **2.7** ist erschienen.
 Es können gegebenfalls Bugs auftreten, sollte dies der Fall sein, so bitte den Bugtracker benutzen.
@@ -10,6 +10,9 @@ Es können gegebenfalls Bugs auftreten, sollte dies der Fall sein, so bitte den 
 ## Fehlerbehebungen
 
 - [x] Bei dem Herrunterladen des Keybinders wird der Background nun richtig herruntergeladen.
+- [x] Fisch System überarbeitet der spammt nun nicht mehr
+- [x] Testsystem entfernt
+- [x] Motor Autm. Auschalten geht nun
 
 ## Geplant zu späterer Version
 
