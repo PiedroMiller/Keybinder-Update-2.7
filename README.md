@@ -42,6 +42,6 @@ _____
 <br><br>
 #### Danke an:
 
-> Alle, welche den Keybinder getestet haben und Bugs/Vorschläge gemeldet haben
+> **Sandro_Santiago** für das melden des bugs.
 
 _____
