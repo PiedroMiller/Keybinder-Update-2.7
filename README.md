@@ -42,6 +42,6 @@ _____
 <br><br>
 #### Danke an:
 
-> **Sandro_Santiago** für das melden des bugs.
+> **Sandro_Santiago** - für das melden des bugs.
 
 _____
